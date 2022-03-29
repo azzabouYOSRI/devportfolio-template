@@ -9,8 +9,8 @@
     Description: This file contains all the scripts associated with the single-page
     portfolio website.
 */
-
-(function($) {
+qdKVN
+(function($) {ksdpfvejfvnqmkNfhiehnfknfhifqsbcioaaepifjqsc,qskdjc
 
     // Remove no-js class
     $('html').removeClass('no-js');
